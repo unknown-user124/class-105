@@ -1,0 +1,15 @@
+#btntime {
+    width: 504px;
+    height:60px ;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: crimson;
+    
+}
+body {
+background-color: deepskyblue;
+}
+
+.classylabel {
+    color:magenta;
+}
